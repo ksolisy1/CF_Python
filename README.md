@@ -2,7 +2,7 @@
 Analysis of a fictional database from Instacart for the purpose of learning Python coding. This analysis is part of CareerFoundry's Data Analytics Program course requirements. 
 
 ## Objective
-Instacart stakeholders are interested in the variety of customers in their database along with their purchasing behaviors. The objective of this task is to perform an inital data and exploratory analysis of some Instacart data in order to derive insights and suggest strategies for better targeted marketing. 
+Instacart stakeholders are interested in the variety of customers in their database along with their purchasing behaviors. The objective of this task is to perform an initial data and exploratory analysis of some Instacart data in order to derive insights and suggest strategies for better targeted marketing. 
 
 ## Data
 While Instacart is a real company that does make their data available online, the data provided from CareerFoundry has been fabricated for educational purposes. The data used in this task can be found [here.](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
